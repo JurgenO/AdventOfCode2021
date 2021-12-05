@@ -1,1 +1,1 @@
-The firt challenge was solve quick & dirty using Excel. The sheet is not uploaded to github :-)
+The first challenge was solved quick & dirty using Excel. The sheet is not uploaded to github :-)
